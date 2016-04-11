@@ -20,8 +20,6 @@ If you are eager to transfer this reference into Latex or something more *"profe
 Concepts not yet integrated into the Reference
 
 - regular expressions
-- Lambda Definitions for closures
-- Decorators (for Closures)
 - Exceptions and Backtracking
 - Plotting
 - Classes and Objects
