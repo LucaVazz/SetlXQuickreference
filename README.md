@@ -20,7 +20,7 @@ If you are eager to transfer this reference into Latex or something more *"profe
 Concepts not yet integrated into the Reference
 
 - regular expressions
-- Exceptions and Backtracking
+- Backtracking
 - Plotting
 - Classes and Objects
 
