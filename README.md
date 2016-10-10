@@ -1,4 +1,4 @@
-# SetlX - Qucikrefernce
+# SetlX - Quickreference
 This Reference aims at providing a quick "cheatsheet" for the concepts and the syntax implemented in the [SetlX-Language](http://www.randoom.org/Software/SetlX). *It doesn't substitute a basic understanding of the language and its concepts!*
 
 
