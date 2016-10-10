@@ -7,6 +7,6 @@ For a complete Introduction / Explanation of SetlX, please refer to its ["In-Dep
 
 
 ### Contributing
-Please feel free to submit your additions via Pull Requests with the extended Reference or via issues (with an attachment) with the supplementary Files.
+Please feel free to submit your additions or corrections of errors via Pull Requests with the extended Reference or via GitHub-Issues (optionally with the suplementary files attatched to them). Your contributions will be reviewed and added as fast as possible.
 
-<sup>I have created some issues, which are all up for grabs if you are searching for some inspiration where exactly you could start to improving this reference. For each one which is yet unassigned, your help is wanted.</sup>
+<sup>I have created some issues, which are all up for grabs if you are searching for some inspiration where exactly you could start to improve this reference. For each issue which is yet unassigned, ***your*** help is wanted.</sup>
